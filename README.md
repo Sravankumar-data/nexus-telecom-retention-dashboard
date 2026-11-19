@@ -32,3 +32,5 @@ An end-to-end customer billing, revenue, and churn analysis for **Nexus Telecom*
 ## Files in This Repository
 - [Telecom_Dashboard.pbix](./Telecom_Dashboard.pbix) — Interactive Power BI report
 - [Telecom_Case_Study.docx](./Telecom_Case_Study.docx) — Full written case study, DAX reference, tables, and retention recommendations
+- [Customers.csv](./Customers.csv) — Customer cohort dataset (1,600 customers across regions, plans, contracts, and tenure)
+- [Monthly_Billing.csv](./Monthly_Billing.csv) — Monthly billing records dataset (17,574 bills across Jan–Dec 2025)
